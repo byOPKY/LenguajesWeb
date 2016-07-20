@@ -1,0 +1,18 @@
+h1{
+	color:red;
+	font-size: 20px;
+	font-family: Arial;
+	font-weight: 500;
+}
+img{
+	border-color: blue solid;
+	border: 1px
+}
+p{
+	color: yellow;
+	font-size: 14px;
+}
+h2{
+	color: black;
+	font-size:16px;
+}
